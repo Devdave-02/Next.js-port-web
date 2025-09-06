@@ -118,6 +118,7 @@
     text-align: center;        /* center text content */
     padding: 30px 16px 20px;   /* reduce padding for mobile */
     justify-items: center;     /* center grid items */
+    margin-top: 0px;
   
   }
 
@@ -172,6 +173,7 @@
 }
 
 }
+
 
 
 
