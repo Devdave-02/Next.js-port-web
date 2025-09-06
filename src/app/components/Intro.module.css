@@ -13,7 +13,7 @@
 .left {
   padding: 50px;
   box-shadow: 0 6px 18px rgba(0,0,0,0.15);
-  font-size: 50px;
+  font-size: 40px;
   margin-right: 0;
   width: 550px;
 
@@ -21,7 +21,7 @@
 
 .Myname{
   color: #FFD700;
-  font-size: 55px;
+  font-size: 48px;
   font-weight: bolder;
   display: block;
   
@@ -171,6 +171,7 @@
 }
 
 }
+
 
 
 
