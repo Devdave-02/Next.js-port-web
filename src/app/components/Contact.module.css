@@ -193,7 +193,7 @@
 
 .input,
 .textarea {
-  width: 250px;
+   max-width: 250px;
 }
 
 .buttoncontainer{
@@ -235,3 +235,4 @@
 }
 
 }
+
