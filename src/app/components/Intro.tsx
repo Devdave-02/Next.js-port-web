@@ -18,7 +18,8 @@ function Intro() {
           <a href="https://github.com/Devdave-02" target="_blank" rel="noopener noreferrer">
             <FaGithub className={styles.icon} />
           </a>
-          <a href="https://linkedin.com/in/David-Ibukunoluwa-Okanlawon" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/david-ibukunoluwa-okanlawon-659657378?utm_source=share&utm_
+            campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className={styles.icon} />
           </a>
           <a href="https://www.facebook.com/okanlawon.david.986" target="_blank" rel="noopener noreferrer">
@@ -67,4 +68,5 @@ function Intro() {
 );
 }
  export default Intro;
+
 
