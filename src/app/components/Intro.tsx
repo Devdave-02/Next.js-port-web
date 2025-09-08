@@ -9,8 +9,8 @@ function Intro() {
       {/* Left div */}
       <div className={styles.left}>
         <p className={styles.title}>
-          Hello, I am  <strong className={styles.Myname}>  David Okanlawon,</strong>
-         A professional <strong className={styles.Myrole}>full-stack Engineer.
+          Hello, I am  <strong className={styles.Myname}><i> David Okanlawon,</i></strong>
+         A professional <strong className={styles.Myrole}><i>full-stack Engineer.</i>
         </strong>
         </p>
 
@@ -18,7 +18,7 @@ function Intro() {
           <a href="https://github.com/Devdave-02" target="_blank" rel="noopener noreferrer">
             <FaGithub className={styles.icon} />
           </a>
-          <a href="https://linkedin.com/in/david-ibukunoluwa-okanlawon" target="_blank" rel="noopener noreferrer">
+          <a href="https://linkedin.com/in/David-Ibukunoluwa-Okanlawon" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className={styles.icon} />
           </a>
           <a href="https://www.facebook.com/okanlawon.david.986" target="_blank" rel="noopener noreferrer">
@@ -67,3 +67,4 @@ function Intro() {
 );
 }
  export default Intro;
+
