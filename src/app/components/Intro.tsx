@@ -37,7 +37,7 @@ function Intro() {
         </button>
 
         <button className={styles.button2}>
-          <a href="https://wa.me/2348103420613" target="_blank">Contact Me</a>
+          <a className={styles.buttonlink}  href="https://wa.me/2348103420613" target="_blank">Contact Me</a>
         </button>
        </div>
       </div>
@@ -68,6 +68,7 @@ function Intro() {
 );
 }
  export default Intro;
+
 
 
 
