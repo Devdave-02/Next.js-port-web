@@ -26,6 +26,5 @@ body {
   padding: 0;
   background: var(--bg-main);
   color: var(--text-main);
-  font-style: 'Lato', sans-serif;
-  
+  font-family: 'Poppins', sans-serif;
 }
