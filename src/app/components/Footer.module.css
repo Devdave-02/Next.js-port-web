@@ -21,7 +21,7 @@
   right: 1rem;
   bottom: 1rem;
   background-color: white; /* blue */
-  color: #0b1a3c;
+  color: #ffd700; 
   border: none;
   border-radius: 50%;
   width: 40px;
@@ -46,4 +46,5 @@
 .scrollButton {
   bottom: 0;
 }
+
 }
