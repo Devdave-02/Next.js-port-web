@@ -107,7 +107,7 @@ function Contact() {
         <div className={styles.contactinfo}>
           <div className={styles.item}>
             <MdEmail className={styles.icon} />
-            <p>davidokanla69@gmail.com</p>
+            <p>okanlawondavid02@gmail.com</p>
           </div>
 
           <div className={styles.item}>
@@ -132,7 +132,7 @@ function Contact() {
            <a href="https://www.facebook.com/okanlawon.david.986" target="_blank" rel="noopener noreferrer">
             <FaFacebook className={styles.icon} />
           </a>
-           <a href="https://mail.google.com/mail/?view=cm&fs=1&to=davidokanla69@gmail.com" target="_blank" rel="noopener noreferrer">
+           <a href="https://mail.google.com/mail/?view=cm&fs=1&to=okanlawondavid02@gmail.com" target="_blank" rel="noopener noreferrer">
           <MdEmail className={styles.icon} />
           </a>
       </div>
@@ -143,4 +143,5 @@ function Contact() {
 }
 
 export default Contact;
+
 
