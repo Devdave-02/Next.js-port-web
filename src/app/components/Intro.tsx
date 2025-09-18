@@ -6,7 +6,7 @@ function Intro() {
   return (
     <section
      id="Intro"
-     className="mt-[100px] flex flex-col-reverse sm:flex flex-col-reverse md:flex-row justify-between items-center gap-0 mx-auto  max-w-[1200px] px-4"
+     className="mt-[50px] flex flex-col-reverse sm:flex flex-col-reverse md:flex-row justify-between items-center gap-0 mx-auto  max-w-[1200px] px-4"
      >
 
       {/* Left div */}
@@ -100,3 +100,4 @@ function Intro() {
 }
 
 export default Intro;
+
