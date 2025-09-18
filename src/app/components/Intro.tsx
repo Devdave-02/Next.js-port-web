@@ -77,7 +77,7 @@ function Intro() {
 
       {/* Right div: Code block */}
       <div className="flex-shrink-0 w-full md:flex-[0.45] md:max-w-[500px] md:mx-0">
-        <pre className="font-mono text-[10px]  min-[500px]:text-[10] min-[500px]:max-w-[500px] sm:text-[12px] sm:max-w-[500px]  md:text-[15px] bg-[rgba(30,30,60,1)] py-[30px] pl-[20px] pr-0 rounded-[8px] leading-[1.9] text-left text-white max-w-[470px] md:text-[0.8rem] md:py-4 md:px-4 md:max-w-[500px] md:mx-auto">
+        <pre className="font-mono text-[10px]  min-[500px]:text-[10] min-[500px]:max-w-[500px] sm:text-[12px] sm:max-w-[500px]  md:text-[15px] bg-[rgba(30,30,60,1)] py-[30px] pl-[20px] pr-0 rounded-[8px] leading-[1.9] text-left text-[#f0f8ff] max-w-[470px] md:text-[0.8rem] md:py-4 md:px-4 md:max-w-[500px] md:mx-auto">
       {`const coder = {
         name: 'David Okanlawon',
         skills: ['React', 'NextJS', 'Express', 
@@ -100,5 +100,6 @@ function Intro() {
 }
 
 export default Intro;
+
 
 
