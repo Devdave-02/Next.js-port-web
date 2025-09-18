@@ -22,35 +22,35 @@ function Header() {
         <a
           href="#About"
           onClick={() => setIsOpen(false)}
-          className="text-white hover:text-[#FFD700] font-poppins font-bold"
+          className="text-[#FFD700] hover:text-white font-poppins font-bold"
         >
           ABOUT
         </a>
         <a
           href="#Skill"
           onClick={() => setIsOpen(false)}
-          className="text-white hover:text-[#FFD700] font-poppins font-bold"
+          className="text-[#FFD700] hover:text-white font-poppins font-bold"
         >
           SKILLS
         </a>
         <a
           href="#Projects"
           onClick={() => setIsOpen(false)}
-          className="text-white hover:text-[#FFD700] font-poppins font-bold"
+          className="text-[#FFD700] hover:text-white font-poppins font-bold"
         >
           PROJECTS
         </a>
         <a
           href="#Services"
           onClick={() => setIsOpen(false)}
-          className="text-white hover:text-[#FFD700] font-poppins font-bold"
+          className="text-[#FFD700] hover:text-[#FFD700] font-poppins font-bold"
         >
           SERVICES
         </a>
         <a
           href="#Contact"
           onClick={() => setIsOpen(false)}
-          className="text-white hover:text-[#FFD700] font-poppins font-bold"
+          className="text-[#FFD700] hover:text-white font-poppins font-bold"
         >
           CONTACT
         </a>
@@ -68,3 +68,4 @@ function Header() {
 }
 
 export default Header;
+
